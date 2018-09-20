@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<img src="https://ef2411bfbaec03749e9d-7a153dd62f7b9670f635af25f088ab85.ssl.cf5.rackcdn.com/H2U-Left.jpg">
+
 You can use the [editor on GitHub](https://github.com/How2Urinal/How2Urinal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
